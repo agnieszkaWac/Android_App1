@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioGroup
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/wyborOceny"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/label"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="TextView" />
+
+    <RadioButton
+        android:id="@+id/radio2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="2" />
+
+    <RadioButton
+        android:id="@+id/radio3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="3" />
+
+    <RadioButton
+        android:id="@+id/radio4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="4" />
+
+    <RadioButton
+        android:id="@+id/radio5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="5" />
+</RadioGroup>

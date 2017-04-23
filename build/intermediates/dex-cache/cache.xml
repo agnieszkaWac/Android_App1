@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lilo\.android\build-cache\1369491d4fbeb35bbacf132fd12537df487e0b38\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Lilo\Desktop\Laborka\app\build\intermediates\pre-dexed\debug\classes_7a307d9fe028c523eeef34576fcf746558f145f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Lilo\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Lilo\Desktop\Laborka\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_34f766eb0ad7293c72bb7a20e920dfec641520a1.jar" />
+    </item>
+
+</items>
